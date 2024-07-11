@@ -1,4 +1,4 @@
 "AadClientId": "0dc8ae36-f50d-41c7-92b8-b8aaf7db451e",
 "AadSecret": "ekb8Q~2LC~RyDTUcPoNBz-xODpor9GSNecqDfc.2",
 "AadTenantDomain": "nbbdev.onmicrosoft.com",
-"AadTenantId": "4d1d39ba-3068-49ea-80cc-96380dd02e7c"
+"AadTenantId": "4d1d39ba-3068-49ea-80cc-96380dd02e7c",
